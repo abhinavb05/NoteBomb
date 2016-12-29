@@ -5,3 +5,4 @@ An android application intended to share notes in form of pdf.</br></br>
 <li>Create pdf out of images (iText library used)</li>
 <li>Share pdf with title and description</li>
 </ul>
+Uses http://www.gyaanify.com as backend server.
